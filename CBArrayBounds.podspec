@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 
   s.description  = <<-DESC
                            一个处理数组越界导致的崩溃的分类集。
-                           https://blog.csdn.net/ios8988/article/details/82762389 
+                           https://www.jianshu.com/p/1f5c3d43b587
                    DESC
 
   s.homepage     = "https://github.com/caobo56/CBArrayBounds.git"
