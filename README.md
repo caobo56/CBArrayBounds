@@ -1,7 +1,7 @@
 # CBArrayBounds
 iOS–再也不用担心数组越界  https://blog.csdn.net/ios8988/article/details/82762389
 
-我看到这个狠好用，原本准备源码直接嵌入项目，但是不方便。
+我看到这个很好用，原本准备源码直接嵌入项目，但是不方便。
 就有了这个pod
 
 嵌入方式
